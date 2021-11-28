@@ -1,16 +1,16 @@
-### Hi there 👋
+### Dourado de França
+<div>
+	<a href="mailto:francadourado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/jose-dourado-a8b2a1109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+I'm Dourado de França, or simply France, an economics student, trader, business analyst and data scientist aspirant. I really enjoy learning about data in general and how we can apply it on world surrounding us.
 
-<!--
-**jddfrance/jddfrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experiences:
 
-Here are some ideas to get you started:
+- Data enginering: Extraction, cleaning and analysis of data bases;
+- Automation scripts;
+- Business analysis: From planning to execution and financial projections;
+- Financial markets: Trading and portfolio creation and management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jddfrance&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
