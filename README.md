@@ -10,7 +10,7 @@ Experiences:
 - Data enginering: Extraction, cleaning and analysis of data bases;
 - Automation scripts;
 - Business analysis: From planning to execution and financial projections;
-- Financial markets: Trading and portfolio creation and management.
+- Financial markets: Trading, portfolio creation and management.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jddfrance&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
