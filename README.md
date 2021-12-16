@@ -16,6 +16,7 @@ I'm Dourado de França, or simply France, an economics student, trader, business
 - Languages: Python and R
   - Data: Pandas
   - Webscrapping: Selenium, Requests and Zeep
+  - Graphs: GeoPandas, Gmaps, Bokeh, matplotlib, seaborn
 - Softwares: Power BI, Excel and Google Sheets
 - Databases: MySQL
 - Cloud: Azure
