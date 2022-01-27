@@ -8,7 +8,7 @@ I'm Dourado de França, or simply France, an economics student, trader, business
 ## Experiences:
 
 - Data enginering: Extraction, cleaning and analysis of data bases;
-- Automation scripts;
+- Automation scripts/ Pipelines;
 - Business analysis: From planning to execution and financial projections;
 - Financial markets: Trading, portfolio creation and management.
 
