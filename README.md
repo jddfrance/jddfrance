@@ -25,6 +25,7 @@ I'm Dourado de França, or simply France, an economics student, trader, business
 - Unity
 - Power BI
 - Scikit-learn
-
+- AWS
+- Machine Learning
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jddfrance&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
